@@ -21,7 +21,7 @@ jobs:
     uses: skills/exercise-toolkit/.github/workflows/start-exercise.yml@v0.7.0
     with:
       exercise-title: "Introduction to Git"
-      intro-message: "Use Git version control to work on a game using command line (CLI) and VS Code"
+      intro-message: "Use Git version control and Visual Studio Code to work on a game"
 
   replace_exercise_name:
     name: Replace exercise name in .devcontainer.json

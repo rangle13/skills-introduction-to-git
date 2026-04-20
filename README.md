@@ -1,6 +1,6 @@
 # Introduction to Git
 
-_Use Git version control to work on a game using command line (CLI) and VS Code._
+_Use Git version control and Visual Studio Code to work on a game._
 
 ## Welcome
 
